@@ -1,0 +1,7 @@
+# jshunt uses Python 3 standard library
+# External CLI tools (installed separately):
+# - subjs (https://github.com/lc/subjs)
+# - subfinder (https://github.com/projectdiscovery/subfinder)
+# - httpx (https://github.com/projectdiscovery/httpx)
+# - gitleaks (https://github.com/gitleaks/gitleaks)
+# - gf (https://github.com/tomnomnom/gf)
